@@ -8,7 +8,7 @@
 
 
 | Syntax      | Description                                      |
-|----------------------------------------------- --------------  |
+|-------------|--------------------------------------------------|
 |     !       | is not equal to  (not the same)                  |
 |     ==      | is equal to  (the same   )                       |
 |     ===     | is strict equal to  (the same data and ralue  )  |
@@ -29,7 +29,10 @@
 
 * for - loops through a block of code a number of times
 
-* while - loops through a block of code while a specified condition is true
+* while - loops through a block of code while a specified condition is 
+true
+
+
 
 
 
