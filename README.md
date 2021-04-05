@@ -15,6 +15,7 @@
 | read7        | [read7](read7.md)                 |
 | read8        | [read8](read8.md)                 |
 | read9        | [read9](read9.md)                 |
+| read10       | [read10](read10.md)                |
 
 
 
