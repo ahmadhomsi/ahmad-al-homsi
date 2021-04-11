@@ -1,3 +1,37 @@
+
+# code 201 Reading Notes :
+
+
+## table or daliy code 201  reading notes:
+| reads        | links                             |
+| -------------| --------------------------------- |
+|read01        |  [read01](read01.md)              |     
+|read02        |                                   |
+|read03        |                                   |
+|read04        |                                   |
+|read05        |                                   |
+|read06        |                                   |
+|read07        |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+|              |                                   |
+
+
+
+
+
+
+
 # 102 cours
 
 # table or daliy reading :
