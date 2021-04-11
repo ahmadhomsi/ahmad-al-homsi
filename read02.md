@@ -9,117 +9,117 @@ emphasis should be placed, the definition of any
 acronyms used, when given text is a quotation).
 
 
-<h1>
-<h2>
-<h3>
-<h4>
+<!-- h1 -->
+<h2
+<h3
+<h4
 <h5>
-<h6>
+<!-- <h6> -->
 HTML has six "levels" of
 headings:
-<h1> is used for main headings
-<h2> is used for subheadings
+<!-- <h1> is used for main headings -->
+<!-- <h2> is used for subheadings -->
 If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+<!-- <h3> element is used, and so -->
 on.
-<p>
+<!-- <p> -->
 To create a paragraph, surround
 the words that make up the
-paragraph with an opening <p>
-tag and closing </p> tag.
+paragraph with an opening p>
+tag and closing  p> tag.
 
-<b>
+<!-- <b> -->
 By enclosing words in the tags
-<b> and </b> we can make
+ b  and  b> we can make
 characters appear bold.
 
-<i>
+<!-- <i> -->
 By enclosing words in the tags
-<i> and </i> we can make
+i> and  i> we can make
 characters appear italic.
 
-<sup>
-The <sup> element is used
+<!-- <sup> -->
+The sup> element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
 mathematical concepts like
 raising a number to a power such
 as 22.
-<sub>
-The <sub> element is used to
+<!-- <sub> -->
+The sub> element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
 formulas such as H20.
 
-<hr />
+<!-- <hr /> -->
 To create a break between
 themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the <hr /> tag.
+using the hr /> tag.
 
-<br />
+<!-- <br /> -->
 As you have already seen, the
 browser will automatically show
 each new paragraph or heading
 on a new line. But if you wanted
 to add a line break inside the
 middle of a paragraph you can
-use the line break tag <br />.
+use the line break tag  br />.
 
-<strong>
-The use of the <strong>
+<!-- <strong> -->
+The use of the  strong>
 element indicates that its
 content has strong importance.
 For example, the words
 contained in this element might
 be said with strong emphasis.
 
-<em>
-The <em> element indicates
+<!-- <em> -->
+The  em> element indicates
 emphasis that subtly changes
 the meaning of a sentence.
 By default browsers will show
-the contents of an <em> element
+the contents of an  em> element
 in italic.
 
-<blockquote>
-The <blockquote> element is
+<!-- <blockquote> -->
+The blockquote> element is
 used for longer quotes that take
 up an entire paragraph. Note
-how the <p> element is still
-used inside the <blockquote>
+how the p> element is still
+used inside the  blockquote>
 element.
 
-<q>
-The <q> element is used for
+<!-- <q> -->
+The  q> element is used for
 shorter quotes that sit within
 a paragraph. Browsers are
 supposed to put quotes around
-the <q> element, however
+the  q> element, however
 Internet Explorer does not —
 therefore many people avoid
-using the <q> element.
+using the  q> element.
 
 
 If you use an abbreviation or
-an acronym, then the <abbr>
+an acronym, then the  abbr>
 element can be used. A title
 attribute on the opening tag is
 used to specify the full term.
-<cite>
+<!-- <cite> -->
 When you are referencing a
 piece of work such as a book,
 film or research paper, the
-<cite> element can be used
+<!-- <cite> element can be used -->
 to indicate where the citation is
 from.
 
-<dfn>
+<!-- <dfn> -->
 The first time you explain some
 new terminology (perhaps an
 academic concept or some
@@ -127,22 +127,22 @@ jargon) in a document, it is
 known as the defining instance
 of it.
 
-<address> 02/address.html HTML
-The <address> element has
+<!-- <address> 02/address.html HTML -->
+<!-- The <address> element has -->
 quite a specific use: to contain
 contact details for the author of
 the page.
 
-<ins>
-<del>
-The <ins> element can be used
+<!-- <ins> -->
+<!-- <del> -->
+<!-- The <ins> element can be used -->
 to show content that has been
 inserted into a document, while
-the <del> element can show text
+the del> element can show text
 that has been deleted from it.
 
-<s>
-The <s> element indicates
+<!-- <s> -->
+The s> element indicates
 something that is no longer
 accurate or relevant (but that
 should not be deleted).
@@ -180,10 +180,10 @@ want the text in these elements
 to be.
 You can also include CSS rules
 within an HTML page by placing
-them inside a <style> element,
+them inside a style> element,
 which usually sits inside the
-<head> element of the page.
-The <style> element should use
+head> element of the page.
+The style> element should use
 the type attribute to indicate
 that the styles are specified in
 CSS. The value should be text/
