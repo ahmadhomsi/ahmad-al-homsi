@@ -6,7 +6,7 @@
 | reads        | links                             |
 | -------------| --------------------------------- |
 |read01        |  [read01](read01.md)              |     
-|read02        |                                   |
+|read02        |  [read02](read02.md)              |
 |read03        |                                   |
 |read04        |                                   |
 |read05        |                                   |
