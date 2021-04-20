@@ -37,7 +37,7 @@ unordered, and definition.
  Definition lists are used to define terminology.
  Lists can be nested inside one another.
 
- # ghaptre 13 
+ # chaptre 13 
 
 * Border
 Every box has a border (even if
